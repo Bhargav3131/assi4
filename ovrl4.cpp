@@ -9,7 +9,6 @@ class space {
 
    public:
    void get(int a, int b, int c);
-   void display();
    void operator -();
    void operator +();
    void operator *();
